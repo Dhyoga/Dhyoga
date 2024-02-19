@@ -23,7 +23,7 @@
 
 </div>
 
-<img align="left" src="https://media.tenor.com/GJj7lj4IhpsAAAAi/liv-punishing-gray-raven.gif" alt="Liv Seggs" width="320" /> 
+<img align="left" src="https://media.tenor.com/GJj7lj4IhpsAAAAi/liv-punishing-gray-raven.gif" alt="Liv Seggs" width="256" /> 
 
 ```csharp
 dhyoga@nathaire
