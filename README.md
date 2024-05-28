@@ -36,8 +36,8 @@ dhyoga@nathaire
 │ Languages› C++, Java, PHP, HTML, CSS, Javascript, Python, Shell Script
 │ Libraries & Framework› Laravel, ReactJS, ExpressJS, TailwindCSS, Bootstrap
 │ Database› MariaDB/MySQL, MongoDB
-│ Tools › Docker, Postman, Jenkins, Grafana Firebase, Gitlab
-| Cloud > AWS, Alibaba, GCP, Digital Ocean, Iniz
+│ Tools › Docker, Postman, Jenkins, Grafana, Firebase, Gitlab
+| Cloud › AWS, Alibaba, GCP, Digital Ocean, Iniz
 ╰──────────────────────────────────────────────────────────────────────────── 
 ```
 
