@@ -30,7 +30,7 @@ dhyoga@nathaire
 -------------------------
 ╭──────────── Personal ────────────────────────────────────────────────────── 
 │ Pronounces› He/him 
-│ Interest> DevSecOps, Cloud Computing, Cyber Security
+│ Interest> DevSecOps, Cloud Computing, Backend, Cyber Security
 ├──────────── Techstack ───────────────────────────────────────────────────── 
 │ Host› EndeavourOS
 │ Languages› C++, Java, PHP, HTML, CSS, Javascript, Python, Shell Script
