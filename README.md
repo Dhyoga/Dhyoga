@@ -211,10 +211,10 @@ dhyoga@nathaire
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="48" height="48" />
             </a>            
             <a href="https://developer.android.com/studio" target="_blank">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="48" height="48" />
             </a>            
             <a href="https://www.android.com/" target="_blank">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="48" height="48" />
             </a>
             <a href="https://replit.com/" target="_blank">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" alt="replit" width="48" height="48"  />
