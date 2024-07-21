@@ -189,8 +189,14 @@ dhyoga@nathaire
             <a href="https://ohmyz.sh/" target="_blank">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyzsh" width="48" height="48" />
             </a>
+            <a href="https://www.linux.org/" target="_blank">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="48" height="48" />
+            </a>
             <a href="https://www.redhat.com/en" target="_blank">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="redhat" width="48" height="48"  />
+            </a>            
+            <a href="https://www.debian.org/" target="_blank">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="48" height="48" />
             </a>
             <a href="https://archlinux.org/" target="_blank">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="arch" width="48" height="48"  />
