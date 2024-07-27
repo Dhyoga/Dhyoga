@@ -50,8 +50,11 @@ dhyoga@nathaire
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
 </a>
-<a href="https://vuejs.org/" target="_blank">
+<!-- <a href="https://vuejs.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="48" height="48"  />
+</a> -->
+<a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  alt="bootstrap" width="48" height="48" />
 </a>
 <a href="https://reactjs.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" width="48" height="48"  />
