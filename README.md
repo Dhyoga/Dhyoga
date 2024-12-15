@@ -1,3 +1,6 @@
+<div align="right">
+</div>
+
 ```ascii
 
             ▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
@@ -13,9 +16,6 @@
                                                                                              ░███████    
                                                                                                ░░░░░░      
 ```
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&lines=I+am+a+Web+Developer;I+am+a+System+Administrator;I+am+a+Cloud+Engineer;I+am+DevOps" alt="Typing Animation" />
-</div>
 
 <div align="center">
             
@@ -44,6 +44,4 @@ dhyoga@nathaire
 | Cloud › AWS, Alibaba, GCP, Digital Ocean, Iniz
 ╰──────────────────────────────────────────────────────────────────────────── 
 ```
-<div align="right>
-<img src="https://komarev.com/ghpvc/?username=Dhyoga&color=blue" alt="Profile Views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Dhyoga&color=blue" alt="Profile Views" align="right" />
