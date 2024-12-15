@@ -14,6 +14,10 @@
                                                                                                ░░░░░░      
 ```
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&lines=I+am+a+Web+Developer;I+am+a+System+Administrator;I+am+a+Cloud+Engineer;I+am+DevOps" alt="Typing Animation" />
+</div>
+
+<div align="center">
             
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://dhyoga.serdadu.dev)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=dhyogap@gmail.com)
@@ -40,3 +44,6 @@ dhyoga@nathaire
 | Cloud › AWS, Alibaba, GCP, Digital Ocean, Iniz
 ╰──────────────────────────────────────────────────────────────────────────── 
 ```
+<div align="right>
+<img src="https://komarev.com/ghpvc/?username=Dhyoga&color=blue" alt="Profile Views" />
+</div>
